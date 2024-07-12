@@ -5,7 +5,7 @@ ATIVIDADES:<br>
 
 MÉTODOS:<br>
 math.floor - Transforma números reais em números inteiros;<br>
-math.pow - É utilizado para realizar potênciação;<br>  
+math.pow - É utilizado para realizar potênciação;<br>
 math.rad - Converte o valor para a unidade de medida radiana;<br>
 math.sin - Encontra o seno do valor inseriddo;<br>
 math.cos - Encontra o cosseno do valor inserido;<br>
