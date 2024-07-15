@@ -10,3 +10,4 @@ math.rad - Converte o valor para a unidade de medida radiana;<br>
 math.sin - Encontra o seno do valor inserido;<br>
 math.cos - Encontra o cosseno do valor inserido;<br>
 math.tan - Encontra a tangente do valor inserido;<br>
+math.fsum - Soma todos os itens.
